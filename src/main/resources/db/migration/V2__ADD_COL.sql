@@ -1,0 +1,1 @@
+ALTER TABLE todo ADD description VARCHAR (255);
